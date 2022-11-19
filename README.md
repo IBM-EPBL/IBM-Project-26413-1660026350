@@ -1,13 +1,17 @@
-                                                                  # IBM-Project-26413-1660026350
-                                                             Analytics for Hospitals' Health-Care Data
+                                                      # IBM-Project-26413-1660026350
+                                                  Analytics for Hospital Health-Care Data
 TECHNOLOGY : Data Analytics and visualisation
+
 TEAM ID : PNT2022TMID04231
 
 TEAM MEMBERS
 
 •	KARTHIGA G(TL)
+
 •	Team member : JAYASURYA R
+
 •	Team member : SANTHOSHKUMAR N
+
 •	Team member : DISHNI PRIYA J
 
 PROJECT DESCRIPTION:
